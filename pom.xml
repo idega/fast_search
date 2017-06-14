@@ -7,7 +7,6 @@
 		<artifactId>com.idega.block.private</artifactId>
 		<version>5.0.0-SNAPSHOT</version>
 	</parent>
-	<name>ODR</name>
 	<groupId>com.idega.webapp.custom</groupId>
 	<artifactId>fast_search</artifactId>
 	<packaging>iwwar</packaging>
@@ -293,4 +292,5 @@
       </plugin>
     </plugins>
   </build>
+	<name>CMS for FAST Search</name>
 </project>
